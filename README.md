@@ -7,6 +7,8 @@ Working so far:
  - Audio (Mic and Jack)
  - Brightness (Fn Keys are OK)
  - Trackpad Gestures
+ - Wifi (Working with itlwm.kext and Heliport.app) 
+ - Bluetooh 
  
  Not Working :
   - Nvidia 1050ti (Disabled)
