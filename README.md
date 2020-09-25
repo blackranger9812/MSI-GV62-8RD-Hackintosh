@@ -12,6 +12,6 @@ Working so far:
  
  Not Working :
   - Nvidia 1050ti (Disabled)
-  - Trackpad click buttoms (if you want use a old PS2 controller from Rehabman on Bitbuket, but you lose Gestures)
+  - Trackpad click buttoms (if you want to fixed,use a old PS2 controller from Rehabman on Bitbuket, but you lose Gestures)
   
   
