@@ -3,7 +3,7 @@
 Working so far:
 
  - USB (Type - C not tested)
- - Webcam
+ - Webcam (Debe estar habilitada en DragonCenter en Windows )
  - Audio (Mic and Jack)
  - Brightness (Fn Keys are OK)
  - Trackpad Gestures
