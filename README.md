@@ -9,6 +9,7 @@ Working so far:
  - Trackpad Gestures
  - Wifi (Working with itlwm.kext and Heliport.app) 
  - Bluetooh 
+ - Ethernet
  
  Not Working :
   - Nvidia 1050ti (Disabled)
