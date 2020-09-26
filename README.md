@@ -3,9 +3,9 @@
 Working so far:
 
  - USB (Type - C not tested)
- - Webcam (Debe estar habilitada en DragonCenter en Windows )
+ - Webcam (Must be enabled in DragonCenter on Windows )
  - Audio (Mic and Jack)
- - Brightness (Fn Keys are OK)
+ - Brightness (Fn Keys are OK, with ACPI patch)
  - Trackpad Gestures
  - Wifi (Working with itlwm.kext and Heliport.app) 
  - Bluetooh 
